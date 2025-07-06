@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction Pipeline
+# End-to-End ML Pipeline with Scikitlearn Pipeline API
 
 This repository contains an end-to-end machine learning project for predicting customer churn for a telecommunications company. The project utilizes Scikit-learn's `Pipeline` and `GridSearchCV` to create a robust, reusable, and production-ready model.
 
